@@ -118,18 +118,18 @@ done
 
 %files factory -f .mfiles-%{name}-factory
 %doc factory/README.md
-%license LICENSE.txt
+%doc LICENSE.txt
 
 %files service -f .mfiles-%{name}-service
 %doc service/README.md
-%license LICENSE.txt
+%doc LICENSE.txt
 
 %files value -f .mfiles-%{name}-value
 %doc value/README.md
-%license LICENSE.txt
+%doc LICENSE.txt
 
 %files javadoc -f .mfiles-javadoc
-%license LICENSE.txt
+%doc LICENSE.txt
 
 %changelog
 * Fri Feb 10 2017 Fedora Release Engineering <releng@fedoraproject.org> - 1.1-4
