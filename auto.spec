@@ -5,6 +5,7 @@ Version:       1.1
 Release:       4%{?dist}
 Summary:       A collection of source code generators for Java
 License:       ASL 2.0
+Group:         Development/Java
 URL:           https://github.com/google/auto
 Source0:       https://github.com/google/auto/archive/auto-value-%{version}.tar.gz
 
